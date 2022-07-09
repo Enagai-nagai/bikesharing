@@ -28,8 +28,11 @@ We are planning to launch share bike service in Des Moines. We are exploring the
 
 #### Usage situation
 * According to what we learned from the explatory analysis, we can see the following
-** There are typically two ways of usage (1) Subscriber for commute in the moring and evening (2) Customer for sightseeing/specific occasion use during weekend 
-** The male population is much bigger than the female one. We would need to find out why men use more this service or why women are hesitant to use this service (probably security problem)
-** 
+* There are typically two ways of usage (1) Subscriber for commute in the moring and evening (2) Customer for sightseeing/specific occasion use during weekend 
+* The male population is much bigger than the female one. We would need to find out why men use more this service or why women are hesitant to use this service (probably security problem)
+
+#### Consideration
+* The share bike usage may change a lot in Des Moines, where I believe that cars are the most common transportation. People in NY might use the share bike to get a metro station, however people in Des Moines probably use the bike to get to the final destination or do not use bike because trip distance is too big.
+
 
 [link to Tableau Story](LINK GOES HERE "https://public.tableau.com/app/profile/erika.nagai/viz/Module14_Challenge_16569660114920/Overallcitibikeusage?publish=yes")
